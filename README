@@ -1,1 +1,5 @@
+echo "<!doctype html><h1>GIF Converter</h1>" > index.html
+git add .
+git commit -m "Add index.html"
+git push
 
